@@ -1,0 +1,11 @@
+{
+  "name": "png-heightmap",
+  "version": "0.0.1",
+  "repository": {
+    "type":"git",
+    "url": "git@github.com:flyswatter/png-heightmap.git"
+  },
+  "dependencies": {
+    "binary-xhr": "0.0.1"
+  }
+}
