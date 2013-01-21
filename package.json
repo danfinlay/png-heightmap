@@ -2,10 +2,12 @@
   "name": "png-heightmap",
   "version": "0.0.1",
   "repository": {
-    "type":"git",
+    "type": "git",
     "url": "git@github.com:flyswatter/png-heightmap.git"
   },
   "dependencies": {
-    "binary-xhr": "0.0.1"
+    "binary-xhr": "0.0.1",
+    "voxel-debris": "0.0.4",
+    "ecstatic": "~0.3.2"
   }
 }
