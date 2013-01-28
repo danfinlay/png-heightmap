@@ -1,1 +1,1 @@
-Convert pngs to hegightmaps in Voxel.js!
+Convert pngs to heightmaps in Voxel.js!

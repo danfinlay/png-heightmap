@@ -6,6 +6,7 @@
     "url": "git@github.com:flyswatter/png-heightmap.git"
   },
   "dependencies": {
-    "binary-xhr": "0.0.1"
+    "binary-xhr": "0.0.1",
+    "png.js": "0.1.1"
   }
 }
