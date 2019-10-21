@@ -8,6 +8,6 @@
   "dependencies": {
     "binary-xhr": "0.0.1",
     "voxel-debris": "0.0.4",
-    "ecstatic": "~0.3.2"
+    "ecstatic": "~4.1.2"
   }
 }
